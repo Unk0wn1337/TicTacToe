@@ -1,0 +1,17 @@
+article{
+    display: grid;
+    grid-template-columns: 80px 80px 80px;
+
+}
+
+.Elem {
+    border: 1px solid black;
+    width: 80px;
+    height: 80px;
+
+}
+p{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: larger;
+}
